@@ -10,6 +10,6 @@
   "license": "MIT",
   "keywords": ["copilot", "multi-agent", "squad"],
   "agents": ".github/agents",
-  "skills": ".copilot/skills",
-  "mcpServers": ".copilot/mcp-config.json"
+  "skills": ".copilot/skills"
 }
+
